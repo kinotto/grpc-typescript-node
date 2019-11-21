@@ -1,7 +1,7 @@
 {
-  "name": "webpack-typescript-starter",
+  "name": "grpc-typescript-node",
   "version": "0.0.1",
-  "description": "A simpl grpc typescript based app",
+  "description": "A simpl grpc typescript node based app",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --port 9000 --inline --progress --profile --colors --watch --content-base src/ --mode development --open",

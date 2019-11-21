@@ -9,7 +9,7 @@ const PROTO_PATH = '../proto/helloworld.proto';
  * Implements the SayHello RPC method.
  */
 function sayHello(call, callback) {
-  console.log(call.metadata.get("authorization"));
+  //console.log(call.metadata.get("authorization"));
   callback(null, {message: 'Hello ' + call.request.name});
 }
 
