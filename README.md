@@ -5,7 +5,7 @@
 
 ## Quick Overview
 
-This is a simple grpc hello world example built with typescript and nodejs
+This is a simple grpc hello world application built with typescript and nodejs
 
 ## Requirements
 - [x] [protoc](https://github.com/google/protobuf) compiler to generate .js and .d.ts files for your request and response classes. 
@@ -36,3 +36,4 @@ clone the repository then:
 ## link and resources
 - [x] [grpc-web](https://github.com/grpc/grpc-web)
 - [x] [improbable-eng/grpc-web](https://github.com/improbable-eng/grpc-web)
+- [x] [envoy](https://github.com/envoyproxy/envoy)
