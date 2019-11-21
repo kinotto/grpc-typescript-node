@@ -1,4 +1,4 @@
-# grpc Hello World example Typescript + Nodejs
+# grpc helloWorld example - Typescript + Nodejs
 
 <img src="https://i.imgur.com/rxi5VZ1.png" />
 
